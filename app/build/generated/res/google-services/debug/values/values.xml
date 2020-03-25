@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">799573121916-r1dusi8na09999qsrkga3dg2k5qsl1q5.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://daily-shopping-list-996b1.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">799573121916</string>
+    <string name="google_api_key" translatable="false">AIzaSyDCYv6CY5aODmBDH9DdKpswMrtexrXVv6Y</string>
+    <string name="google_app_id" translatable="false">1:799573121916:android:b33b0129ab81989cf8a2f9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDCYv6CY5aODmBDH9DdKpswMrtexrXVv6Y</string>
+    <string name="google_storage_bucket" translatable="false">daily-shopping-list-996b1.appspot.com</string>
+    <string name="project_id" translatable="false">daily-shopping-list-996b1</string>
+</resources>
